@@ -1,22 +1,27 @@
 steveo:
-  name: "Steveo's house"
-  description: "Cool bungalow in Grey Lynn"
-  city_name: "Auckland, New Zealand"
-  city_slug: "Auckland"
+  name: "Steveo's loft"
+  description: "Cool apartment in Shanghai"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
   wifi: true
   rating: 1
-  rooms: 3
+  rooms: 2
+  pets_allowed: false
 lindsey:
-  name: "Clair's apartment"
+  name: "Linsdey's bedroom"
   description: "1 bedroom apartment in Berlin"
   city_name: "Berlin, Germany"
-  city_slug: "Berlin"
+  city_slug: "berlin"
   wifi: true
   rating: 3
-pear:
-  name: "Pear's apartment"
-  description: "1 bedroom apartment in Berlin"
-  city_name: "Berlin, Germany"
-  city_slug: "Berlin"
+  rooms: 1
+  pets_allowed: true
+pia:
+  name: "Pia's apartment"
+  description: "1 bedroom apartment in Melbourne"
+  city_name: "Melbourne, Australia"
+  city_slug: "melbourne"
   wifi: true
   rating: 3
+  rooms: 3
+  pets_allowed: false
