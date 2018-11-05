@@ -1,0 +1,22 @@
+steveo:
+  name: "Steveo's house"
+  description: "Cool bungalow in Grey Lynn"
+  city_name: "Auckland, New Zealand"
+  city_slug: "Auckland"
+  wifi: true
+  rating: 1
+  rooms: 3
+lindsey:
+  name: "Clair's apartment"
+  description: "1 bedroom apartment in Berlin"
+  city_name: "Berlin, Germany"
+  city_slug: "Berlin"
+  wifi: true
+  rating: 3
+pear:
+  name: "Pear's apartment"
+  description: "1 bedroom apartment in Berlin"
+  city_name: "Berlin, Germany"
+  city_slug: "Berlin"
+  wifi: true
+  rating: 3
